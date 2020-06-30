@@ -1,2 +1,2 @@
-# Kamailio-tutorials-101
-Kamailio Tutorial Examples
+# kamailio-101-tutorial
+Kamailio 101 Tutorial Examples from the series at https://nickvsnetworking.com
